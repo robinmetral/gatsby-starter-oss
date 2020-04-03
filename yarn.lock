@@ -5121,10 +5121,10 @@ gatsby-telemetry@^1.2.3:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-oss@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-oss/-/gatsby-theme-oss-0.1.3.tgz#3458508c90938eeb970828e85fca1432380b34e9"
-  integrity sha512-9b/kXKaYLTeKKgVwrBJdz98UoJ0JzbaI030wOybgUSSEU8VFQ63vWi4j69JRigcVvAsK9XqlsMAdUjacDUdOEQ==
+gatsby-theme-oss@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-oss/-/gatsby-theme-oss-0.1.4.tgz#543ba11adcd71daea22b0c3a6fe9f4376f44f617"
+  integrity sha512-ZmlAmemU5Y0WEvB9/y76pa5qAD81Epy3hnWou4kQ8DSpKI1/lH2vtqBSaX/cJRbKZxRbO/49XUj2uPMYRFd2nw==
   dependencies:
     "@theme-ui/components" "^0.3.1"
     gatsby-plugin-manifest "^2.2.23"
