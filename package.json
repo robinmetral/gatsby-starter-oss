@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-starter-oss",
+  "version": "0.1.2",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.20.8",
+    "gatsby-theme-oss": "^0.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
