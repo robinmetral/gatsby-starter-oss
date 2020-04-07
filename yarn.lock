@@ -5026,7 +5026,7 @@ gatsby-page-utils@^0.1.1:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-manifest@^2.2.23:
+gatsby-plugin-manifest@^2.3.3:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.3.3.tgz#119b9e648428a0db8979d577d2fdb20a9f3c18b7"
   integrity sha512-lEval/fZaCqu9qlQMY38A8fuoJOpWRih3Hh0sLfM2Bt1dPlVkjDQqpHbQCfEinQA41c6JUdFAQFhdp5+G0kOwQ==
@@ -5036,7 +5036,7 @@ gatsby-plugin-manifest@^2.2.23:
     semver "^5.7.1"
     sharp "^0.25.1"
 
-gatsby-plugin-offline@^3.0.16:
+gatsby-plugin-offline@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-3.1.2.tgz#44e53459a3d04ca1fc432aee69c7c54358d2b4c6"
   integrity sha512-RYX+tXO0/UGnhDCIcyloUD2veTqLUhOliNF7nyzYMEQKRtbqoIcJkYnJD5rfLWCvM5zqJgcIlr+lpFodA+yp6g==
@@ -5062,7 +5062,7 @@ gatsby-plugin-page-creator@^2.2.1:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-react-helmet@^3.1.13:
+gatsby-plugin-react-helmet@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.2.1.tgz#28a89e884e5447f7aefead2a80749e3745f5f5a9"
   integrity sha512-5oarZdVvp3k3keG26eVFagVHLYw7wCGs/MXRYQg8MEyJewU3X4Uc0eo7qu4TM5EIuZ2ekaL14r86RB6RM5TORA==
@@ -5083,7 +5083,7 @@ gatsby-react-router-scroll@^2.2.1:
     scroll-behavior "^0.9.12"
     warning "^3.0.0"
 
-gatsby-source-graphql@^2.3.0:
+gatsby-source-graphql@^2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/gatsby-source-graphql/-/gatsby-source-graphql-2.3.2.tgz#4a62d43c4230ee6b91a04e2610642f2bd4272bf6"
   integrity sha512-RonjzodAAdMwh/idCokA6IqeH4eQGQPQD2vO9CDx3ocMiyvKRM5f7x617R1jxZM6lATjn1ndySmDvLvRqJz/Ig==
@@ -5121,17 +5121,17 @@ gatsby-telemetry@^1.2.3:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-oss@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-oss/-/gatsby-theme-oss-0.1.4.tgz#543ba11adcd71daea22b0c3a6fe9f4376f44f617"
-  integrity sha512-ZmlAmemU5Y0WEvB9/y76pa5qAD81Epy3hnWou4kQ8DSpKI1/lH2vtqBSaX/cJRbKZxRbO/49XUj2uPMYRFd2nw==
+gatsby-theme-oss@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-oss/-/gatsby-theme-oss-0.1.5.tgz#9f3ac1f4bc27aa660c37d64869533563442bad7f"
+  integrity sha512-jDj7gGM25QIi/Tg5L8GJmWTLQ+FGXblwPUqg8SSt56PwYYLJIFmRcBq2zXh/BS/X7ZLsncGuWrDJuWkFaXOgLA==
   dependencies:
     "@theme-ui/components" "^0.3.1"
-    gatsby-plugin-manifest "^2.2.23"
-    gatsby-plugin-offline "^3.0.16"
-    gatsby-plugin-react-helmet "^3.1.13"
+    gatsby-plugin-manifest "^2.3.3"
+    gatsby-plugin-offline "^3.1.2"
+    gatsby-plugin-react-helmet "^3.2.1"
     gatsby-plugin-theme-ui "^0.3.0"
-    gatsby-source-graphql "^2.3.0"
+    gatsby-source-graphql "^2.3.2"
     lodash "^4.17.15"
     react-helmet "^5.2.1"
     theme-ui "^0.3.1"
