@@ -5490,7 +5490,7 @@ gatsby-theme-oss@^0.1.5:
     react-helmet "^5.2.1"
     theme-ui "^0.3.1"
 
-gatsby@^2.20.22:
+gatsby@^2.20.25:
   version "2.20.25"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.20.25.tgz#d628eb47da3a3ada7a32f718b7d3a79934cc9884"
   integrity sha512-K+qO3Trb6Hhg4TGsQuElDn+Q5P1PSVM2h2tANq/jUF62on9m/aUKz/KUb/mQiEPP2PcgdgIBESHhjrIbBqUBSw==
