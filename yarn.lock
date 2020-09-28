@@ -6084,7 +6084,7 @@ gatsby-theme-oss@^0.1.5:
     react-helmet "^5.2.1"
     theme-ui "^0.3.1"
 
-gatsby@^2.24.63:
+gatsby@^2.24.65:
   version "2.24.65"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.24.65.tgz#8541ee615bd3691bc21aae3beb4c1c8a3aff43c3"
   integrity sha512-Ou3/Z5iLpZdfRTVfj9z7XdDBupk9nvPvhy5riSt/WZKZCkcPE2zS1Me3QaT5JQCul8OW18t4afcQtCVxKGaLVg==
